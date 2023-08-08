@@ -24,5 +24,7 @@ plugin/.merlin
 *.out
 _opam
 _build
-/Makefile*
+/Makefile
+/Makefile.conf
+.merlin
 /src/plibrary.ml
